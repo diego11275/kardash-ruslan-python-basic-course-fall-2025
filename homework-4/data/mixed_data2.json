@@ -1,0 +1,26 @@
+[
+  {
+    "product": "Ноутбук",
+    "price": 50000,
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "product": "Мышь",
+    "price": 500,
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "product": "Книга",
+    "price": 1200,
+    "in_stock": false,
+    "rating": 4.8
+  },
+  {
+    "product": "Клавиатура",
+    "price": 1500,
+    "in_stock": true,
+    "rating": 4.0
+  }
+]

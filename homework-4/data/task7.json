@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ноутбук",
+    "price": 25000.0,
+    "quantity": 5
+  },
+  {
+    "name": "Мышь",
+    "price": 500,
+    "quantity": 10
+  },
+  {
+    "name": "Клавиатура",
+    "price": 750.0,
+    "quantity": 7
+  },
+  {
+    "name": "Монитор",
+    "price": 7500.0,
+    "quantity": 3
+  }
+]
